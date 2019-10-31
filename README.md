@@ -1,1 +1,3 @@
-# ecs_project
+- Source code for the application
+- Docker build file for ECS 
+- requirements.txt
